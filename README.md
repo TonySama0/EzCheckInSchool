@@ -1,5 +1,5 @@
 # EzCheckInSchool
-最简单的完美校园自动健康打卡，  基于Github Actions免服务器运行。  
+最简单的完美校园自动健康打卡， 基于Github Actions免服务器运行。  
 
 - 仅需学号姓名🎫
 - 随机校内经纬度🗺️
@@ -38,7 +38,7 @@
 
 Fork的项目->Settings->Action->I understand... 开启Actions
 
-回到项目主页，修改[README.md](/README.md)随便加几个空格即可
+回到项目主页， 修改[README.md](/README.md)随便加几个空格即可
 
 **首次开启若不在打卡时间将会重打早间卡作为测试**
 
